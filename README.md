@@ -10,7 +10,7 @@
 | ----------------- | ------------------------------------- | ------------------- |
 | Ubuntu + OpenCart | Online shop (website)                 | Digital/Software    |
 | Windows 10        | Simulated employee PC                 | Digital/Workstation |
-| Kali Linux        | Attacker tools (you = ethical hacker) | Digital/Attacker    |
+| Kali Linux        | Attacker tools & Myself,ethical hacker| Digital/Attacker    |
 | pfSense           | Firewall – filters traffic            | Network/Service     |
 | Wazuh Server      | Monitors logs                         | Security Tool       |
 | Security Onion    | Detects threats on the network        | Security Tool       |
